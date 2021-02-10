@@ -1,0 +1,19 @@
+{
+  "name": "git-teste",
+  "version": "1.0.0",
+  "description": "meu primeiro aplicativo node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielafavaro/git-teste.git"
+  },
+  "author": "gabriela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielafavaro/git-teste/issues"
+  },
+  "homepage": "https://github.com/gabrielafavaro/git-teste#readme"
+}
